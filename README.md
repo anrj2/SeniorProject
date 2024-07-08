@@ -1,4 +1,4 @@
-# SeniorProject - Mr. Joe's Hot Sauce Website
+# Senior Project (CSE 499) - Mr. Joe's Hot Sauce Website
 
 ### by Abby Nadie Joseph
 
