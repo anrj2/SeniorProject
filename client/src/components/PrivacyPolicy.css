@@ -1,0 +1,32 @@
+/* src/components/PrivacyPolicy.css */
+.privacy-policy {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .privacy-policy h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .privacy-policy h2 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .privacy-policy p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+  
+  .privacy-policy ul {
+    margin-left: 20px;
+  }
+  
+  .privacy-policy ul li {
+    list-style-type: disc;
+    margin-bottom: 10px;
+  }
+  

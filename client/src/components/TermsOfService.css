@@ -1,0 +1,32 @@
+/* src/components/TermsOfService.css */
+.terms-of-service {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .terms-of-service h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .terms-of-service h2 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .terms-of-service p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+  
+  .terms-content ul {
+    margin-left: 20px;
+  }
+  
+  .terms-content ul li {
+    list-style-type: disc;
+    margin-bottom: 10px;
+  }
+  

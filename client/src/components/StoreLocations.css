@@ -1,0 +1,44 @@
+/* src/components/StoreLocations.css */
+.store-locations {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .store-locations h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .store-locations p {
+    font-size: 1rem;
+    margin-bottom: 20px;
+  }
+  
+  .store-locations a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    background-color: #FF4500;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .store-locations a:hover {
+    background-color: #FF6347;
+  }
+  
+  .map-container {
+    width: 100%;
+    max-width: 800px;
+    height: 450px;
+    margin: 0 auto;
+  }
+  
+  .map-container iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+  
